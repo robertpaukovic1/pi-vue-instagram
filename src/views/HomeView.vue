@@ -52,6 +52,8 @@ cards = [
   "https://picsum.photos/id/3/800",
   "https://picsum.photos/id/4/800",
   "https://picsum.photos/id/5/800",
+  "https://picsum.photos/id/6/800",
+  "https://picsum.photos/id/7/800",
 ];
 
 export default {
